@@ -5,16 +5,6 @@ Fashion MNIST Image Classification using Convolutional Neural Network (CNN) from
 
 ---
 
-## Github Repository Name
-
-xxxxx_<USN>_Fashion_MNIST_CNN
-
-Example:
-
-UE24CS645BC2_PES1PG25CS090_Fashion_MNIST_CNN
-
----
-
 # Project Description
 
 This project implements a Convolutional Neural Network (CNN) completely from scratch using Python and NumPy for Fashion MNIST image classification.
